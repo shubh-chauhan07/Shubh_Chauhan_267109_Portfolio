@@ -29,13 +29,10 @@ project/
 |   `-- project/
 |       |-- WhatsApp Image 2026-11-17 at 2.47.04 AM.jpeg
 |       `-- image.png
-|-- public/
-|   `-- vite.svg
 |-- screenshots/
 |   `-- portfolio-home.png
 |-- .gitignore
 |-- index.html
-|-- javascript.svg
 |-- package-lock.json
 |-- package.json
 |-- README.md
