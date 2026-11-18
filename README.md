@@ -2,6 +2,10 @@
 
 A personal portfolio website about my background, skills, projects, and contact information.
 
+## Live Portfolio
+
+Visit my portfolio: https://shubhchauhan.netlify.app/
+
 ## Technologies
 
 - HTML5
